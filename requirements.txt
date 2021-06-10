@@ -12,7 +12,7 @@ coverage==5.1
 cssselect2==0.3.0
 defusedxml==0.6.0
 diff-match-patch==20181111
-Django==2.2.8
+Django==2.2.24
 django-ajax-search==1.5.1
 django-appconf==1.0.4
 django-autocomplete-light==3.5.1
